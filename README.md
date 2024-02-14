@@ -24,4 +24,3 @@
 ### Contact Me
 
 - 📧 Email: chanakorn.aramsak@gmail.com
-- ☎️ Phone: +66 92-253-0275
