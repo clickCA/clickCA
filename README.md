@@ -1,26 +1,30 @@
-## Hi there, I'm Chanakorn 👋
+## **Hi there, I'm Chanakorn (◕‿◕)**
 
-### About me
+### **About me ‍**
 
-- 🎓 Currently pursuing a B.E. in Computer Engineering at Chulalongkorn University
-- 🌱 I'm interested in software development, web development, and embedded systems
-- 💻 Skilled in programming languages such as C/C++, Java, JavaScript, Ruby, and Python
-- 🛠️ Familiar with web development frameworks and technologies such as Ruby on Rails, NestJS, HTML, CSS, and Bootstrap
-- 📚 Have experience with databases such as MySQL, MongoDB, and sqlite3
-- 🚀 Actively seeking a Software Engineer Internship to gain hands-on experience in developing and designing software systems
+- Currently a B.E. in Computer Engineering student at Chulalongkorn University ️
+- Interested in software development, web development, and embedded systems ⚙️
+- Skilled in C/C++, Java, JavaScript, Ruby, and Python ⌨️
+- ️ Familiar with Ruby on Rails, NestJS, HTML, CSS, and Bootstrap frameworks
+- Experienced with MySQL, MongoDB, and sqlite3 databases ️
+- Looking for a Software Engineer Internship to gain hands-on experience
 
-### Projects
+### **Projects ✨**
 
-- 🛍️ Developed and designed an e-commerce website using Ruby on Rails for a web programming course
-- 🔒 Developed a front-end and back-end login page using Rails and SQLite
-- 🌡️ Designed and implemented web applications utilizing a combination of HTML, CSS, and JavaScript to create visually appealing front-end interfaces and utilized Firebase to synchronize and update real-time data from various sensors for end-users
-- 🎮 Developed a Java-based clicker game as the final project for Programming Methodology 1
+- ️ Designed and built an e-commerce website using Ruby on Rails (Rails is awesome!)
+- Developed a login page with both front-end and back-end using Rails and SQLite (security is key! )
+- ️ Created web applications with HTML, CSS, and JavaScript for beautiful interfaces and used Firebase to keep data fresh for users (data is king! )
+- Developed a Java-based clicker game for Programming Methodology 1 (games are fun! )
 
-### Work Experience
+### **Work Experience**
 
-- 👨‍🏫 Tutored high school students from Triamudom School and Bodindecha School preparing for the Thailand national-level science and math competition (POSN)
-- 📈 Developed and implemented various programs to enhance student instruction for tutoring, including a question generator utilizing Python and pyPdf library, a scoreboard calculator utilizing Google Sheets, a form for collecting student availability for class scheduling using Tally and integrated with Google Sheets, and an automated system for timely distribution of Zoom links via Line Notify API utilizing Google Script.
+- ‍ Tutored high school students for Thailand's national science and math competition (POSN) (education is important! )
+- Developed programs to improve student learning, including:
+    - A question generator using Python and pyPdf (making learning fun! )
+    - A scoreboard calculator using Google Sheets (keeping track of progress! )
+    - A class scheduling form using Tally and Google Sheets (organization is key! )
+    - An automated Zoom link distribution system using Line Notify API and Google Script (efficiency is important! ⏱️)
 
-### Contact Me
+### **Contact Me**
 
-- 📧 Email: chanakorn.aramsak@gmail.com
+- Email: chanakorn.aramsak@gmail.com
