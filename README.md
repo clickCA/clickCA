@@ -1,4 +1,3 @@
-make it more readability contain emoji
 
 ## Hi there, I'm Chanakorn 👋
 
