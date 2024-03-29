@@ -138,13 +138,13 @@
 
 ---
 
-<br>
-
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
-
-Last Edited on: 09/11/2022
 ### Contact Me
 
 - 📧 Email: chanakorn.aramsak@gmail.com 
 ----
-<a href="http://www.freepik.com">Designed by rawpixel.com / Freepik</a>
+
+<br>
+
+Credit 
+- For this github readme.md [Abdul Khalid](https://github.com/0xabdulkhalid) (Last Edited on: 09/11/2022)
+- For the profile picture <a href="http://www.freepik.com">Designed by rawpixel.com / Freepik</a>
