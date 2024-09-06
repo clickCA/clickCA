@@ -2,7 +2,7 @@
 
 <br>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## **About me**
 
 I'm a highly motivated and curious recent graduate with a strong foundation in computer science. I'm passionate about full-stack development, enterprise applications, and emerging technologies. My experience spans from frontend development with React and Next.js to backend work with ASP.NET, NestJS, and various databases. I'm committed to continuous learning and excited to tackle new challenges in the tech industry.
 
