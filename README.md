@@ -15,7 +15,7 @@ I'm a highly motivated and curious recent graduate with a strong foundation in c
 
 <p align="center">
 
-## Skills
+
 
 ### Languages
 
