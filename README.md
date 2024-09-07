@@ -1,127 +1,89 @@
-<div align="center">
+```
+ ╔═══════════════════════════════════════════════════════════════╗ 
+ ║ CHANAKORN ARAMSAK                                             ║
+ ║ ═══════════════════                                           ║
+ ║ Full Stack Developer | Cloud Enthusiast | Problem Solver      ║
+ ╚═══════════════════════════════════════════════════════════════╝
+      │
+    ┌─┴─┐
+    │CPU│
+    └───┘
+```
 
-# Chanakorn Aramsak
+## Welcome to My Digital Circuit City! 🏙️💻
 
-<img src="https://img.shields.io/badge/-Full%20Stack%20Developer-3a0ca3?style=for-the-badge" alt="Full Stack Developer" />
-<img src="https://img.shields.io/badge/-Cloud%20Enthusiast-4361ee?style=for-the-badge" alt="Cloud Enthusiast" />
-<img src="https://img.shields.io/badge/-Problem%20Solver-4cc9f0?style=for-the-badge" alt="Problem Solver" />
+Here's where bytes become buildings and algorithms form avenues. Let's explore the districts that make up my technological metropolis!
 
-</div>
+### 🏭 Industrial District: Skills & Technologies
 
-<div align="center">
+```mermaid
+graph TD
+    A[Central Processing Unit] --> B[Frontend Sector]
+    A --> C[Backend Sector]
+    A --> D[Database District]
+    A --> E[DevOps Zone]
+    B --> F[React Tower]
+    B --> G[Next.js Nexus]
+    B --> H[Redux Square]
+    B --> I[TailwindCSS Park]
+    C --> J[ASP.NET Avenue]
+    C --> K[NestJS Node]
+    C --> L[Express Expressway]
+    C --> M[Gin Junction]
+    D --> N[MS SQL Center]
+    D --> O[MongoDB Market]
+    D --> P[MySQL Mall]
+    E --> Q[Git Gardens]
+    E --> R[Docker Docks]
+    E --> S[AWS Skyline]
+    E --> T[Terraform Territory]
+```
 
-<img src="/api/placeholder/830/300" alt="Tech Landscape Banner" />
+### 🏙️ Downtown: Professional Experience
 
-</div>
+1. **TCG Towers** (May 2023 - July 2023)
+   - 🏗️ Constructed high-performance web applications
+   - 🔧 Engineered 90% faster load times
+   - 🔐 Implemented OAuth2 security protocols
+   - 🗃️ Optimized data flow for 1M+ record databases
 
-## 🎨 Tech Palette
+2. **Khunlook Tech Park** (May 2024 - Present)
+   - 🔑 Developed robust authentication systems
+   - 🧹 Refactored and standardized 80% of API infrastructure
+   - 🧪 Implemented Test-Driven Development practices
+   - 🏃‍♂️ Operated in an Agile development environment
 
-<div align="center">
+### 🏛️ Innovation Quarter: Key Projects
 
-<svg width="600" height="300" xmlns="http://www.w3.org/2000/svg">
-  <rect width="100%" height="100%" fill="#f0f0f0"/>
-  
-  <!-- Frontend -->
-  <circle cx="150" cy="75" r="60" fill="#ff6b6b"/>
-  <text x="150" y="75" font-family="Arial" font-size="14" fill="white" text-anchor="middle" dy=".3em">Frontend</text>
-  
-  <!-- Backend -->
-  <circle cx="450" cy="75" r="60" fill="#4ecdc4"/>
-  <text x="450" y="75" font-family="Arial" font-size="14" fill="white" text-anchor="middle" dy=".3em">Backend</text>
-  
-  <!-- Database -->
-  <circle cx="150" cy="225" r="60" fill="#45b7d1"/>
-  <text x="150" y="225" font-family="Arial" font-size="14" fill="white" text-anchor="middle" dy=".3em">Database</text>
-  
-  <!-- DevOps -->
-  <circle cx="450" cy="225" r="60" fill="#f9a828"/>
-  <text x="450" y="225" font-family="Arial" font-size="14" fill="white" text-anchor="middle" dy=".3em">DevOps</text>
-  
-  <!-- Connecting lines -->
-  <line x1="210" y1="75" x2="390" y2="75" stroke="#333" stroke-width="2"/>
-  <line x1="150" y1="135" x2="150" y2="165" stroke="#333" stroke-width="2"/>
-  <line x1="450" y1="135" x2="450" y2="165" stroke="#333" stroke-width="2"/>
-  <line x1="210" y1="225" x2="390" y2="225" stroke="#333" stroke-width="2"/>
-</svg>
+1. 🏫 **Khunlook Academy**: A state-of-the-art Nursery Classroom Management System
+2. 📚 **BookBix Library**: A next-gen book management platform (NestJS, MongoDB, Stripe)
+3. ☁️ **Terraform Cloudworks**: Automated WordPress deployment in the AWS Cloud
+4. 📦 **myDropbox Vault**: Secure file management system integrated with AWS S3 & Lambda
+5. 💉 **VaccineBooker**: Streamlined vaccine appointment system (React, Next.js, Redux)
 
-</div>
+### 🎓 University District
 
-<div align="center">
+**Chulalongkorn University**
+- Degree: Bachelor of Computer Engineering
+- Graduation: July 2024
 
-| Frontend | Backend | Database | DevOps |
-|:--------:|:-------:|:--------:|:------:|
-| React    | ASP.NET | MS SQL   | Git    |
-| Next.js  | NestJS  | MongoDB  | Docker |
-| Redux    | Express | MySQL    | AWS    |
-| TailwindCSS | Gin  | MariaDB  | Terraform |
+### 🌉 Connect Bridge
 
-</div>
-
-## 🏆 Achievements Showcase
-
-<div align="center">
-
-<svg width="600" height="200" xmlns="http://www.w3.org/2000/svg">
-  <rect width="100%" height="100%" fill="#f0f0f0"/>
-  
-  <!-- TCG Achievement -->
-  <rect x="50" y="50" width="200" height="100" rx="20" fill="#6a4c93"/>
-  <text x="150" y="85" font-family="Arial" font-size="16" fill="white" text-anchor="middle">TCG</text>
-  <text x="150" y="115" font-family="Arial" font-size="14" fill="white" text-anchor="middle">90% Faster Load Time</text>
-  
-  <!-- Khunlook Achievement -->
-  <rect x="350" y="50" width="200" height="100" rx="20" fill="#1982c4"/>
-  <text x="450" y="85" font-family="Arial" font-size="16" fill="white" text-anchor="middle">Khunlook</text>
-  <text x="450" y="115" font-family="Arial" font-size="14" fill="white" text-anchor="middle">80% API Standardization</text>
-</svg>
-
-</div>
-
-## 🚀 Project Launchpad
-
-<div align="center">
-
-| Project | Description | Tech Stack |
-|:-------:|:-----------:|:----------:|
-| 🏫 Khunlook Academy | Nursery Management | React, Redux, ASP.NET |
-| 📚 BookBix | Book Management | NestJS, MongoDB, Stripe |
-| ☁️ Terraform Cloudworks | AWS WordPress Deployment | Terraform, AWS |
-| 📦 myDropbox Vault | Secure File Management | Python, AWS S3, Lambda |
-| 💉 VaccineBooker | Vaccine Appointment System | React, Next.js, Redux |
-
-</div>
-
-## 🎓 Education
-
-<div align="center">
-
-<svg width="300" height="100" xmlns="http://www.w3.org/2000/svg">
-  <rect width="100%" height="100%" fill="#f0f0f0"/>
-  <polygon points="150,10 275,40 150,70 25,40" fill="#8ac926"/>
-  <text x="150" y="45" font-family="Arial" font-size="14" fill="white" text-anchor="middle">Chulalongkorn University</text>
-  <text x="150" y="90" font-family="Arial" font-size="12" fill="#333" text-anchor="middle">B.Eng. Computer Engineering (2024)</text>
-</svg>
-
-</div>
-
-## 📫 Connect
-
-<div align="center">
+Let's establish a connection:
 
 <a href="https://www.linkedin.com/in/chanakorn-aramsak/">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/-LinkedIn%20Skyway-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="mailto:chanakorn.aramsak@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/-Email%20Gateway-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-</div>
-
-<div align="center">
-
-<svg width="400" height="100" xmlns="http://www.w3.org/2000/svg">
-  <rect width="100%" height="100%" fill="#f0f0f0"/>
-  <text x="200" y="50" font-family="Arial" font-size="16" fill="#333" text-anchor="middle">"Crafting digital solutions with creativity and precision."</text>
-</svg>
-
-</div>
+```
+ ╔═══════════════════════════════════════════════════════════════╗ 
+ ║                                                               ║
+ ║  "In the circuit of life, every connection counts.            ║
+ ║   Let's build something extraordinary together!"              ║
+ ║                                                               ║
+ ╚═══════════════════════════════════════════════════════════════╝
+```
