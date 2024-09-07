@@ -14,9 +14,8 @@
 
 ### 🎓 University District
 
-**Chulalongkorn University**
+**Chulalongkorn University** Graduation: July 2024
 - Degree: Bachelor of Computer Engineering
-- Graduation: July 2024
 
 ### 🌉 Connect Bridge
 
