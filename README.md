@@ -2,7 +2,7 @@
  ╔═══════════════════════════════════════════════════════════════╗ 
  ║ CHANAKORN ARAMSAK                                             ║
  ║ ═══════════════════                                           ║
- ║ Full Stack Developer | Technology Enthusiast | Problem Solver      ║
+ ║ Full Stack Developer | Technology Enthusiast | Problem Solver ║
  ╚═══════════════════════════════════════════════════════════════╝
       │
     ┌─┴─┐
