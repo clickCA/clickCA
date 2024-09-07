@@ -10,7 +10,7 @@
     └───┘
 ```
 
-## Welcome to My Digital Circuit City! 🏙️💻
+## Welcome to My City! 🏙️💻
 
 ### 🎓 University District
 
