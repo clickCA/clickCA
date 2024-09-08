@@ -1,6 +1,6 @@
 ```
  ╔═══════════════════════════════════════════════════════════════╗ 
- ║ click-CHANAKORN ARAMSAK                                             ║
+ ║ CHANAKORN ARAMSAK                                             ║
  ║ ═══════════════════                                           ║
  ║ Full Stack Developer | Technology Enthusiast | Problem Solver ║
  ╚═══════════════════════════════════════════════════════════════╝
