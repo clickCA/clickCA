@@ -1,8 +1,4 @@
-```
- ╔═══════════════════════════════════════════════════════════════╗ 
- ║ CHANAKORN ARAMSAK                                             ║
- ║ ═══════════════════                                           ║
- ║ Full Stack Developer | Technology Enthus
+
 
 ### 🌉 Connect Bridge
 
