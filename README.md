@@ -2,20 +2,7 @@
  ╔═══════════════════════════════════════════════════════════════╗ 
  ║ CHANAKORN ARAMSAK                                             ║
  ║ ═══════════════════                                           ║
- ║ Full Stack Developer | Technology Enthusiast | Problem Solver ║
- ╚═══════════════════════════════════════════════════════════════╝
-      │
-    ┌─┴─┐
-    │CPU│
-    └───┘
-```
-
-## Welcome to My City! 🏙️💻
-
-### 🎓 University District
-
-**Chulalongkorn University** Graduation: July 2024
-- Degree: Bachelor of Computer Engineering
+ ║ Full Stack Developer | Technology Enthus
 
 ### 🌉 Connect Bridge
 
@@ -31,9 +18,4 @@ Let's establish a connection:
 
 ```
  ╔═══════════════════════════════════════════════════════════════╗ 
- ║                                                               ║
- ║  "In the circuit of life, every connection counts.            ║
- ║   Let's build something extraordinary together!"              ║
- ║                                                               ║
- ╚═══════════════════════════════════════════════════════════════╝
 ```
